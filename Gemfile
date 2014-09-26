@@ -39,3 +39,8 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'pry', :group => :development
+
+gem 'mini_magick', '3.8.0'
+gem 'carrierwave'
+gem 'devise'
